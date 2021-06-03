@@ -1,4 +1,4 @@
-const getUser = () => {
+   const getUser = () => {
   return {
     name: 'John',
     surname: 'Doe',
